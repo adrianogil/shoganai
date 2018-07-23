@@ -1,0 +1,2 @@
+# shoganai
+C/C++ experiments
