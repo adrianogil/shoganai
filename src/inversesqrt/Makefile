@@ -1,3 +1,5 @@
+# Interesting resource: https://www.andriydruk.com/post/introduction-to-c-for-android-developers/
+
 lib_static_source=fast-inverse-square-root
 lib_static_name=libstatic.a
 
