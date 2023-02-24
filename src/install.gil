@@ -1,0 +1,5 @@
+{
+    "DIR_MACRO": "SHOGANAI_PATH",
+    "PROJECT_NAME": "shoganai",
+    "BASHRC": "bashrc.sh"
+}
